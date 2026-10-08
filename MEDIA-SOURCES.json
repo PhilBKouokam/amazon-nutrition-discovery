@@ -1,0 +1,422 @@
+{
+  "prepared_on": "2026-10-08",
+  "policy": "No original raster product imagery, nutrition-label downloads, user screenshots or retailer screenshot crops are included. Runtime uses authored neutral SVG placeholders.",
+  "assets": [
+    {
+      "original_filename": "barebells-label.jpg",
+      "kind": "product/reference",
+      "original_sha256": "0ed706ba883d5ca53cb814503a9fc2a16c77ad4f3706ba0abad409f28df6d720",
+      "included_original_pixels": false,
+      "placeholder_filename": null,
+      "source_links": [
+        "https://m.media-amazon.com/images/I/71dFLaGN3tL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81KS2utotlL._SL1500_.jpg",
+        "https://shop.barebells.com/pages/nutrition-values",
+        "https://www.amazon.com/dp/B08KWGDMJW"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "barebells.jpg",
+      "kind": "product/reference",
+      "original_sha256": "24a7cc95b51c706a6d43b619c02eea6be39245a84243bf942104e2fcdceb823c",
+      "included_original_pixels": false,
+      "placeholder_filename": "barebells.svg",
+      "source_links": [
+        "https://m.media-amazon.com/images/I/71dFLaGN3tL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81KS2utotlL._SL1500_.jpg",
+        "https://shop.barebells.com/pages/nutrition-values",
+        "https://www.amazon.com/dp/B08KWGDMJW"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "before-mobile-fiber-grid.png",
+      "kind": "screenshot",
+      "original_sha256": "e0c6c61492a48ed4a20ac47357d5d275428fb136f53f50505a47b1236c5781bb",
+      "included_original_pixels": false,
+      "placeholder_filename": "before-mobile-fiber-grid.svg",
+      "source_links": [
+        "https://www.amazon.com/s?k=fiber+bars"
+      ],
+      "provenance": "User-supplied or previously recorded retailer evidence; original captures are excluded.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "before-mobile-popcorn-row.png",
+      "kind": "screenshot",
+      "original_sha256": "bc837a8cbff7f2fbaded51dc8f9e7de75f041f6b7347f0cd604bac0d56253d4f",
+      "included_original_pixels": false,
+      "placeholder_filename": "before-mobile-popcorn-row.svg",
+      "source_links": [
+        "https://www.amazon.com/s?k=popcorn+skinny+pop"
+      ],
+      "provenance": "User-supplied or previously recorded retailer evidence; original captures are excluded.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "before-mobile-protein-row.png",
+      "kind": "screenshot",
+      "original_sha256": "79c206305c5b1d57462ba72ef5ac68ed0750210e0498cef30a185e006abfb3c8",
+      "included_original_pixels": false,
+      "placeholder_filename": "before-mobile-protein-row.svg",
+      "source_links": [
+        "https://www.amazon.com/s?k=protein+bars"
+      ],
+      "provenance": "User-supplied or previously recorded retailer evidence; original captures are excluded.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "before-protein-search.jpg",
+      "kind": "screenshot",
+      "original_sha256": "cd88f13debec53d155dc8687193537e28042aefa2cf7ce1c26252c046cce6632",
+      "included_original_pixels": false,
+      "placeholder_filename": "before-protein-search.svg",
+      "source_links": [
+        "https://www.amazon.com/s?k=protein+bars"
+      ],
+      "provenance": "User-supplied or previously recorded retailer evidence; original captures are excluded.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "boom-kettle-label.jpg",
+      "kind": "product/reference",
+      "original_sha256": "c286e233a84c63c28b43c15351a815494bf418ce643f60b219fdc5d837bbb325",
+      "included_original_pixels": false,
+      "placeholder_filename": null,
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81d+cdvswmL._SL1500_.jpg",
+        "https://www.amazon.com/dp/B00OKR0HAW",
+        "https://www.boomchickapop.com/multipacks/sweet-salty-kettle-corn-multipack"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "boom-kettle.jpg",
+      "kind": "product/reference",
+      "original_sha256": "6cd7a666cbf5712171db293ec800a91599ebb77d2c20eca2e6deb0193c644c21",
+      "included_original_pixels": false,
+      "placeholder_filename": "boom-kettle.svg",
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81d+cdvswmL._SL1500_.jpg",
+        "https://www.amazon.com/dp/B00OKR0HAW",
+        "https://www.boomchickapop.com/multipacks/sweet-salty-kettle-corn-multipack"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "boom-sea-label.jpg",
+      "kind": "product/reference",
+      "original_sha256": "0322b7d134108e9f184cbf862d392d263ef8413a7223f07613828a22655bad61",
+      "included_original_pixels": false,
+      "placeholder_filename": null,
+      "source_links": [
+        "https://m.media-amazon.com/images/I/71NltSvfn4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/811Kvtg7JlL._SL1500_.jpg",
+        "https://www.amazon.com/dp/B00O1XAOCQ",
+        "https://www.boomchickapop.com/multipacks/sea-salt-popcorn-multipack"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "boom-sea.jpg",
+      "kind": "product/reference",
+      "original_sha256": "0eece9f1cdf38450ce13552703557b77d88d323a412db563d0e00bcaca4b7c57",
+      "included_original_pixels": false,
+      "placeholder_filename": "boom-sea.svg",
+      "source_links": [
+        "https://m.media-amazon.com/images/I/71NltSvfn4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/811Kvtg7JlL._SL1500_.jpg",
+        "https://www.amazon.com/dp/B00O1XAOCQ",
+        "https://www.boomchickapop.com/multipacks/sea-salt-popcorn-multipack"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "fiber-cinnamon-label.jpg",
+      "kind": "product/reference",
+      "original_sha256": "fa4106ee3dd47700dac7c9c4da53aa14bd25623bbdc85c5ff58012c0c310161d",
+      "included_original_pixels": false,
+      "placeholder_filename": null,
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81gBQC+lEsL._SL1500_.jpg",
+        "https://www.amazon.com/dp/B0B1S75QDX",
+        "https://www.fiberone.com/products/cinnamon-coffee-cake-70-calorie-brownies"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "fiber-cinnamon.jpg",
+      "kind": "product/reference",
+      "original_sha256": "c372831398b4a0d76d39b257f52fd4c9f988858606f79f31626d6aafe9359fd1",
+      "included_original_pixels": false,
+      "placeholder_filename": "fiber-cinnamon.svg",
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81gBQC+lEsL._SL1500_.jpg",
+        "https://www.amazon.com/dp/B0B1S75QDX",
+        "https://www.fiberone.com/products/cinnamon-coffee-cake-70-calorie-brownies"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "fiber-fudge-label.jpg",
+      "kind": "product/reference",
+      "original_sha256": "5b4458390cfae179066288543d4a665e0f724400c58c420d87cc95cd12ee0310",
+      "included_original_pixels": false,
+      "placeholder_filename": null,
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81mUpNswK+L._SL1500_.jpg",
+        "https://www.amazon.com/dp/B071W8HP21",
+        "https://www.fiberone.com/products/chocolate-fudge-70-calorie-brownies"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "fiber-fudge.jpg",
+      "kind": "product/reference",
+      "original_sha256": "9c1b18588ef2784f790d82d7e821ee63a58dd0b5fbc82cc30632132e8abd88c8",
+      "included_original_pixels": false,
+      "placeholder_filename": "fiber-fudge.svg",
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81mUpNswK+L._SL1500_.jpg",
+        "https://www.amazon.com/dp/B071W8HP21",
+        "https://www.fiberone.com/products/chocolate-fudge-70-calorie-brownies"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "fiber-label.jpg",
+      "kind": "product/reference",
+      "original_sha256": "fd3d9d6c87e8e73ddc6b7d9b79f5168d36daf96c3f5830165f0af6aae285c346",
+      "included_original_pixels": false,
+      "placeholder_filename": null,
+      "source_links": [
+        "https://m.media-amazon.com/images/I/812xRsoEFAL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81gM+uNRX7L._SL1500_.jpg",
+        "https://www.amazon.com/dp/B075MJ5D32"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "fiber-peanut-label.jpg",
+      "kind": "product/reference",
+      "original_sha256": "35c217d55001926351d7ea97b8da08dc89b972da066e049f8b21bc9ea2c8298d",
+      "included_original_pixels": false,
+      "placeholder_filename": null,
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81X4O+Sz6cL._SL1500_.jpg",
+        "https://www.amazon.com/dp/B005BTQ9JG",
+        "https://www.fiberone.com/products/chocolate-peanut-butter-chewy-bars"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "fiber-peanut.jpg",
+      "kind": "product/reference",
+      "original_sha256": "d3f6f5dced0caab2aa99a804fc94798cf97ba11d42b9db48c388af9893abbb57",
+      "included_original_pixels": false,
+      "placeholder_filename": "fiber-peanut.svg",
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81X4O+Sz6cL._SL1500_.jpg",
+        "https://www.amazon.com/dp/B005BTQ9JG",
+        "https://www.fiberone.com/products/chocolate-peanut-butter-chewy-bars"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "fiber.jpg",
+      "kind": "product/reference",
+      "original_sha256": "d3f5d25cbdad3050525bcfe91a423cccf08757d2983bc2bb0ae36c98c8b5f540",
+      "included_original_pixels": false,
+      "placeholder_filename": "fiber.svg",
+      "source_links": [
+        "https://m.media-amazon.com/images/I/812xRsoEFAL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81gM+uNRX7L._SL1500_.jpg",
+        "https://www.amazon.com/dp/B075MJ5D32"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "pure-label.jpg",
+      "kind": "product/reference",
+      "original_sha256": "38461c49b5af26f780fecb6f1b7b34961c449b4d4d6dc2fe788d3739603ace47",
+      "included_original_pixels": false,
+      "placeholder_filename": null,
+      "source_links": [],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "pure.jpg",
+      "kind": "product/reference",
+      "original_sha256": "44a886b3729b612fa54205f698b3393400ad1a40e2ceab049414009f4a8d6e71",
+      "included_original_pixels": false,
+      "placeholder_filename": null,
+      "source_links": [],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "quest-cream-label.jpg",
+      "kind": "product/reference",
+      "original_sha256": "db7f5d922617f510d97f1c88e069ad7b035f27595ff5b0fa373cec58360b26bc",
+      "included_original_pixels": false,
+      "placeholder_filename": null,
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81tzixwK8+L._AC_SL1500_.jpg",
+        "https://www.amazon.com/dp/B00I0DI0Z6",
+        "https://www.questnutrition.com/products/cookies-cream-protein-bar"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "quest-cream.png",
+      "kind": "product/reference",
+      "original_sha256": "7188025ca412f28efe5ce9777fde7a6b8ae8c86091e45c28663cfb92a6e3f0bb",
+      "included_original_pixels": false,
+      "placeholder_filename": "quest-cream.svg",
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81tzixwK8+L._AC_SL1500_.jpg",
+        "https://www.amazon.com/dp/B00I0DI0Z6",
+        "https://www.questnutrition.com/products/cookies-cream-protein-bar"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "quest-label.jpg",
+      "kind": "product/reference",
+      "original_sha256": "4bd84d43dcd4d49804a6d59dbcb1ee6fc76f6a484cde6801eaf7fc0ffe3c663e",
+      "included_original_pixels": false,
+      "placeholder_filename": null,
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81bOQhkUXFL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81mPtciIbyL._AC_SL1500_.jpg",
+        "https://www.amazon.com/dp/B00DLDH1N2",
+        "https://www.questnutrition.com/products/chocolate-chip-cookie-dough-protein-bar"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "quest.jpg",
+      "kind": "product/reference",
+      "original_sha256": "8df55b69ff67e6b48f626fd61fba50f908e4c7ee6a3b3704761c74256024e2d5",
+      "included_original_pixels": false,
+      "placeholder_filename": "quest.svg",
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81bOQhkUXFL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81mPtciIbyL._AC_SL1500_.jpg",
+        "https://www.amazon.com/dp/B00DLDH1N2",
+        "https://www.questnutrition.com/products/chocolate-chip-cookie-dough-protein-bar"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "rxbar-label.jpg",
+      "kind": "product/reference",
+      "original_sha256": "b361f1bcd22086f802172a9be2be5fcdc9227ed5c9598a114ca5b892d768978f",
+      "included_original_pixels": false,
+      "placeholder_filename": null,
+      "source_links": [
+        "https://m.media-amazon.com/images/I/6185U-jq66L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71EoD3tgksL._SL1500_.jpg",
+        "https://shop.rxbar.com/shop/chocolate-sea-salt-box-of-12-bars.html",
+        "https://www.amazon.com/dp/B0143NQVQ6"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "rxbar.jpg",
+      "kind": "product/reference",
+      "original_sha256": "931773a659cdd8cf9cdddfc28039a5a27b00729346cec18a0ed9156366fa15c1",
+      "included_original_pixels": false,
+      "placeholder_filename": "rxbar.svg",
+      "source_links": [
+        "https://m.media-amazon.com/images/I/6185U-jq66L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71EoD3tgksL._SL1500_.jpg",
+        "https://shop.rxbar.com/shop/chocolate-sea-salt-box-of-12-bars.html",
+        "https://www.amazon.com/dp/B0143NQVQ6"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "skinny-original-label.jpg",
+      "kind": "product/reference",
+      "original_sha256": "01c06a309b69077688420c8b43590e315af854087ee70f4c908e28757ffc428f",
+      "included_original_pixels": false,
+      "placeholder_filename": null,
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81H95xB8eXL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81lPfRy4t-L._SL1500_.jpg",
+        "https://www.amazon.com/dp/B00KE1E7YA",
+        "https://www.hersheyland.com/products/skinnypop-original-popcorn-0-65-oz-bag.html"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "skinny-original.jpg",
+      "kind": "product/reference",
+      "original_sha256": "29e571c36f8a390eb1339825aa15dbdf0189497d2b7c6313b9acc372900dacef",
+      "included_original_pixels": false,
+      "placeholder_filename": "skinny-original.svg",
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81H95xB8eXL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81lPfRy4t-L._SL1500_.jpg",
+        "https://www.amazon.com/dp/B00KE1E7YA",
+        "https://www.hersheyland.com/products/skinnypop-original-popcorn-0-65-oz-bag.html"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "smartfood-label.jpg",
+      "kind": "product/reference",
+      "original_sha256": "1c98159f280b5db9d8d6f135ed17020fc03103ebde5d726edc6a2a5c6c7be57f",
+      "included_original_pixels": false,
+      "placeholder_filename": null,
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81M0IeCVDQL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91JqlN5OeOL._SL1500_.jpg",
+        "https://www.amazon.com/dp/B01KQLULJW",
+        "https://www.smartfood.com/products/smartfood-white-cheddar-popcorn"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "smartfood.jpg",
+      "kind": "product/reference",
+      "original_sha256": "bdb1b0bc66f49949ddb568713d843be5c2e468fd9c3866a230804db2c8b19c0c",
+      "included_original_pixels": false,
+      "placeholder_filename": "smartfood.svg",
+      "source_links": [
+        "https://m.media-amazon.com/images/I/81M0IeCVDQL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91JqlN5OeOL._SL1500_.jpg",
+        "https://www.amazon.com/dp/B01KQLULJW",
+        "https://www.smartfood.com/products/smartfood-white-cheddar-popcorn"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    }
+  ]
+}

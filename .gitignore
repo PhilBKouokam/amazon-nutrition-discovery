@@ -1,0 +1,12 @@
+.git/
+.openai/
+.sites-runtime/
+.env
+.env.*
+!.env.example
+node_modules/
+qa/
+private/
+original-media/
+*.log
+.DS_Store
